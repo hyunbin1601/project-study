@@ -1,2 +1,2 @@
 # project-study
-inflearn project study team
+inflearn project study team!
